@@ -1,4 +1,4 @@
-### Hello World! 👋 I'm [Your Name]
+### Hello World! 👋 I'm Seng Sinthon
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
@@ -18,7 +18,7 @@ I'm a dedicated and detail-oriented **.NET Developer** with over two years of ex
 
 💬 **Let's Connect:**
 - Feel free to ask me about backend development, .NET technologies, or any tech-related queries you have!
-- 📫 How to reach me: [Your Email] | [LinkedIn](your-linkedin-url)
+- 📫 How to reach me: sengsinthon.dev@gmail.com | [LinkedIn](your-linkedin-url)
 
 📄 **Quick Links:** [View My Resume](link-to-your-resume)
 
