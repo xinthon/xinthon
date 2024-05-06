@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there, I'm Seng Sinthon 👋
+🔭 I’m currently a .NET Developer with over two years of professional experience. I specialize in creating robust, scalable applications using the .NET ecosystem, focusing primarily on C# and .NET frameworks. My passion lies in turning complex problems into elegant software solutions that enhance user experience and drive business success.
 
-<!--
-**xinthon/xinthon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m constantly learning and currently diving deeper into cloud services like Azure and advanced features of .NET to stay at the forefront of technology.
 
-Here are some ideas to get you started:
+👯 At [Your Company], I'm involved in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Lifecycle Development: From requirement analysis to deployment and maintenance.
+Web Application Development: Using ASP.NET MVC, .NET Core, and Web API to build responsive and user-friendly interfaces.
+Performance Optimization: Enhancing existing applications to improve efficiency and scalability.
+Collaboration: Working closely with cross-functional teams to design and implement new features.
+💬 Ask me about anything related to .NET development, software design patterns, or backend development—I'm always happy to help and share my knowledge!
+
+📫 How to reach me: [Your Email] or connect with me on LinkedIn.
+
+📄 View My Resume
