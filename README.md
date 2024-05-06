@@ -20,7 +20,7 @@ I'm a dedicated and detail-oriented **.NET Developer** with over two years of ex
 - Feel free to ask me about backend development, .NET technologies, or any tech-related queries you have!
 - 📫 How to reach me: sengsinthon.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/seng-sinthon-285905256/)
 
-📄 **Quick Links:** [View My Resume](www.sengsinthon.com)
+📄 **Quick Links:** [View My Resume](https://www.sengsinthon.com/)
 
 ---
 
