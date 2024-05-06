@@ -1,16 +1,32 @@
-Hi there, I'm Seng Sinthon 👋
-🔭 I’m currently a .NET Developer with over two years of professional experience. I specialize in creating robust, scalable applications using the .NET ecosystem, focusing primarily on C# and .NET frameworks. My passion lies in turning complex problems into elegant software solutions that enhance user experience and drive business success.
+### Hello World! 👋 I'm [Your Name]
 
-🌱 I’m constantly learning and currently diving deeper into cloud services like Azure and advanced features of .NET to stay at the forefront of technology.
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
-👯 At [Your Company], I'm involved in:
+I'm a dedicated and detail-oriented **.NET Developer** with over two years of experience specializing in creating scalable and efficient applications. My professional journey revolves around my passion for coding and my commitment to delivering solutions that not only meet but exceed user expectations.
 
-Full Lifecycle Development: From requirement analysis to deployment and maintenance.
-Web Application Development: Using ASP.NET MVC, .NET Core, and Web API to build responsive and user-friendly interfaces.
-Performance Optimization: Enhancing existing applications to improve efficiency and scalability.
-Collaboration: Working closely with cross-functional teams to design and implement new features.
-💬 Ask me about anything related to .NET development, software design patterns, or backend development—I'm always happy to help and share my knowledge!
+🔭 **Currently Working On:**
+- Enhancing user interfaces and backend functionalities for dynamic web applications using **ASP.NET MVC**, **.NET Core**, and **Web API**.
+- Integrating cloud services with enterprise applications, focusing on **Microsoft Azure** to improve deployment workflows and service scalability.
 
-📫 How to reach me: [Your Email] or connect with me on LinkedIn.
+🌱 **Expanding My Horizons:**
+- Actively learning more about **cloud architectures** and advanced **.NET features**.
+- Exploring modern software design patterns and best practices to continuously improve code quality and maintainability.
 
-📄 View My Resume
+👯 **Collaboration:**
+- I thrive in environments that encourage **teamwork** and **knowledge sharing**.
+- Engaged in regular brainstorming sessions with peers to innovate and streamline development processes.
+
+💬 **Let's Connect:**
+- Feel free to ask me about backend development, .NET technologies, or any tech-related queries you have!
+- 📫 How to reach me: [Your Email] | [LinkedIn](your-linkedin-url)
+
+📄 **Quick Links:** [View My Resume](link-to-your-resume)
+
+---
+
+### 📊 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+```text
+C#       12 hrs 5 mins   ██████████████████░░░░░░░   72.38 %
+SQL      3 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Other    1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   6.00 %
