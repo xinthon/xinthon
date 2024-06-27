@@ -4,7 +4,7 @@
 
 I am a .NET Developer with more than two years of experience. I focus on building applications that work well and are easy to use. I love coding and always aim to make software that does more than what people expect.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthon\&layout=compact&theme=transparent&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthon\&layout=compact&theme=calm&hide_border=true&show_icons=true)
 
 💬 **Let's Connect:**
 - Feel free to ask me about backend development, .NET technologies, or any tech-related queries you have!
