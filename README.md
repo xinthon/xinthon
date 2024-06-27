@@ -4,7 +4,7 @@
 
 I'm a dedicated and detail-oriented **.NET Developer** with over two years of experience specializing in creating scalable and efficient applications. My professional journey revolves around my passion for coding and my commitment to delivering solutions that not only meet but exceed user expectations.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthon\&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthon\&layout=compact&theme=transparent&hide_border=true&show_icons=true)
 
 💬 **Let's Connect:**
 - Feel free to ask me about backend development, .NET technologies, or any tech-related queries you have!
