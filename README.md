@@ -7,7 +7,7 @@ I am a .NET Developer with more than two years of experience. I focus on buildin
 
 **Most Used Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthon\&layout=compact&theme=calm&hide_border=true&show_icons=true^&&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthon\&layout=compact&theme=transparent&hide_border=true&show_icons=true&hide_title=true)
 
 
 Let's Connect:
