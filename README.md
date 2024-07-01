@@ -1,6 +1,6 @@
 ### Hey! 👋 I'm Seng Sinthon
 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 I am a .NET Developer with more than two years of experience. I focus on building applications that work well and are easy to use. I love coding and always aim to make software that does more than what people expect.
 
