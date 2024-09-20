@@ -2,7 +2,7 @@
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-A dedicated software developer with almost 3 years of experience in system development specializing in .Net Core. Proficient in building both desktop and web applications, with strong expertise in software architecture and modern development practices.
+I'm a dedicated software developer with nearly 3 years of experience in system development, focusing primarily on .NET Core. I have a solid track record of building both desktop and web applications, and I'm skilled in software architecture and modern development practices. My expertise lies in creating efficient, scalable solutions that meet today's software demands.
 
 
 **Most Used Languages**
