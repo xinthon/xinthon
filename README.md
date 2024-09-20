@@ -2,7 +2,7 @@
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-I am a .NET Developer with more than two years of experience. I focus on building applications that work well and are easy to use. I love coding and always aim to make software that does more than what people expect.
+A dedicated software developer with almost 3 years of experience in system development specializing in .Net Core. Proficient in building both desktop and web applications, with strong expertise in software architecture and modern development practices.
 
 
 **Most Used Languages**
