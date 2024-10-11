@@ -2,10 +2,7 @@
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-Passionate software developer with nearly 3 years of experience specializing in .NET Core, proficient in developing both 
-desktop and web applications. Strong expertise in software architecture, system development, and modern 
-programming practices. Committed to delivering high-quality, scalable solutions through clean, maintainable code.
-
+My current interests are mostly programming and software development
 
 **Most Used Languages**
 
